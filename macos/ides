@@ -1,0 +1,3 @@
+#!/bin/bash
+brew install jetbrains-toolbox
+brew install visual-studio-code

@@ -1,2 +1,2 @@
 # config
-storing some config or whatever the shazbot i want
+storing some config or commands
